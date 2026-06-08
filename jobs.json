@@ -11,6 +11,29 @@
     ]
   },
   {
+    "title": "IOS Swift Developer (full remote)",
+    "company": "Airlab",
+    "url": "https://jobs.dou.ua/companies/airlab/vacancies/325551/",
+    "source": "dou",
+    "location": "віддалено",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
+    ]
+  },
+  {
+    "title": "iOS Engineer Senior (Finance Team)",
+    "company": "Uklon",
+    "url": "https://jobs.dou.ua/companies/uklon/vacancies/357039/",
+    "source": "dou",
+    "location": "Київ, віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "Middle iOS Engineer (#5232)",
     "company": "N-iX",
     "url": "https://jobs.dou.ua/companies/n-ix/vacancies/298038/",
@@ -22,26 +45,14 @@
     ]
   },
   {
-    "title": "Middle iOS Developer",
-    "company": "Devlight",
-    "url": "https://jobs.dou.ua/companies/devlight/vacancies/360175/",
-    "source": "dou",
-    "location": "віддалено",
+    "title": "Senior iOS/macOS Engineer",
+    "company": "Softengi",
+    "url": "https://djinni.co/jobs/830113-senior-ios-macos-engineer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
     "score": 3,
     "reasons": [
       "role: ios"
-    ]
-  },
-  {
-    "title": "Mobile Engineer (iOS) (Ruut)",
-    "company": "Universe Group",
-    "url": "https://jobs.dou.ua/companies/universe/vacancies/356001/",
-    "source": "dou",
-    "location": "Варшава (гібрид), Київ (гібрид)",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: mobile"
     ]
   },
   {
@@ -61,17 +72,6 @@
     "url": "https://djinni.co/jobs/827531-middle-senior-ios-developer/",
     "source": "djinni",
     "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Senior iOS Developer (Contract/Project-based)",
-    "company": "Devico",
-    "url": "https://djinni.co/jobs/822811-senior-ios-developer-contract-project-based/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
     "score": 3,
     "reasons": [
       "role: ios"
