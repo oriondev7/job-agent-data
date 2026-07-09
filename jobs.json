@@ -1,6 +1,17 @@
 [
   {
     "title": "Senior iOS Developer",
+    "company": "Breeze",
+    "url": "https://jobs.dou.ua/companies/breeze/vacancies/365262/",
+    "source": "dou",
+    "location": "віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "Senior iOS Developer",
     "company": "Levi9",
     "url": "https://jobs.dou.ua/companies/levi9/vacancies/363740/",
     "source": "dou",
@@ -62,17 +73,6 @@
     "url": "https://djinni.co/jobs/825947-trainee-ios-developer/",
     "source": "djinni",
     "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "Devico",
-    "url": "https://djinni.co/jobs/833833-ios-developer/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
     "score": 3,
     "reasons": [
       "role: ios"
