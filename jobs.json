@@ -54,5 +54,51 @@
       "role: ios",
       "role: mobile"
     ]
+  },
+  {
+    "title": "Swift / mid-level experience iOS Developer",
+    "company": "WE wilke experience",
+    "url": "https://djinni.co/jobs/807553-swift-mid-level-experience-ios-developer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
+    ]
+  },
+  {
+    "title": "iOS Mobile Engineer",
+    "company": "Oxigen",
+    "url": "https://djinni.co/jobs/834570-ios-mobile-engineer/",
+    "source": "djinni",
+    "location": "Worldwide",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: mobile"
+    ]
+  },
+  {
+    "title": "Trainee iOS developer",
+    "company": "Cloud Works",
+    "url": "https://djinni.co/jobs/825947-trainee-ios-developer/",
+    "source": "djinni",
+    "location": "Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "iOS Developer",
+    "company": "Devico",
+    "url": "https://djinni.co/jobs/833833-ios-developer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
   }
 ]
