@@ -56,6 +56,17 @@
     ]
   },
   {
+    "title": "Senior iOS Engineer",
+    "company": "Kultrix",
+    "url": "https://djinni.co/jobs/838937-senior-ios-engineer/",
+    "source": "djinni",
+    "location": "Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "iOS Developer",
     "company": "Evoplay",
     "url": "https://djinni.co/jobs/838300-ios-developer/",
@@ -75,18 +86,6 @@
     "score": 3,
     "reasons": [
       "role: ios"
-    ]
-  },
-  {
-    "title": "Swift / mid-level experience iOS Developer",
-    "company": "WE wilke experience",
-    "url": "https://djinni.co/jobs/807553-swift-mid-level-experience-ios-developer/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: swift"
     ]
   }
 ]
