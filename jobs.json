@@ -1,16 +1,5 @@
 [
   {
-    "title": "iOS Engineer",
-    "company": "Mobilunity",
-    "url": "https://jobs.dou.ua/companies/mobilunity/vacancies/367008/",
-    "source": "dou",
-    "location": "віддалено",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
     "title": "Middle Software Engineer (IOS Native)",
     "company": "Sombra",
     "url": "https://jobs.dou.ua/companies/sombra/vacancies/366864/",
@@ -33,6 +22,39 @@
     ]
   },
   {
+    "title": "iOS Engineer Senior (Finance Team)",
+    "company": "Uklon",
+    "url": "https://jobs.dou.ua/companies/uklon/vacancies/357039/",
+    "source": "dou",
+    "location": "Київ, віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "Senior iOS Developer (Contract/Project-based)",
+    "company": "Devico",
+    "url": "https://djinni.co/jobs/839297-senior-ios-developer-contract-project-based/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "Senior iOS Developer (Contract/Project-based)",
+    "company": "Devico",
+    "url": "https://djinni.co/jobs/839291-senior-ios-developer-contract-project-based/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "Senior iOS Engineer",
     "company": "Kultrix",
     "url": "https://djinni.co/jobs/838937-senior-ios-engineer/",
@@ -49,17 +71,6 @@
     "url": "https://djinni.co/jobs/838300-ios-developer/",
     "source": "djinni",
     "location": "Countries of Europe or Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Senior iOS Developer",
-    "company": "Archysoft",
-    "url": "https://djinni.co/jobs/838078-senior-ios-developer/",
-    "source": "djinni",
-    "location": "Worldwide",
     "score": 3,
     "reasons": [
       "role: ios"
