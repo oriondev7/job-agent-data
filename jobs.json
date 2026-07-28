@@ -44,28 +44,6 @@
     ]
   },
   {
-    "title": "Senior iOS Developer (Contract/Project-based)",
-    "company": "Devico",
-    "url": "https://djinni.co/jobs/839297-senior-ios-developer-contract-project-based/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Senior iOS Developer (Contract/Project-based)",
-    "company": "Devico",
-    "url": "https://djinni.co/jobs/839291-senior-ios-developer-contract-project-based/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
     "title": "Senior iOS Engineer",
     "company": "Kultrix",
     "url": "https://djinni.co/jobs/838937-senior-ios-engineer/",
@@ -85,6 +63,18 @@
     "score": 3,
     "reasons": [
       "role: ios"
+    ]
+  },
+  {
+    "title": "Swift / mid-level experience iOS Developer",
+    "company": "WE wilke experience",
+    "url": "https://djinni.co/jobs/807553-swift-mid-level-experience-ios-developer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
     ]
   }
 ]
