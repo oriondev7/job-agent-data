@@ -22,6 +22,17 @@
     ]
   },
   {
+    "title": "Senior iOS Developer (AUTO.RIA)",
+    "company": "RIA.com",
+    "url": "https://jobs.dou.ua/companies/ria/vacancies/369231/",
+    "source": "dou",
+    "location": "Вінниця, віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "iOS Engineer (3982)",
     "company": "Ciklum",
     "url": "https://jobs.dou.ua/companies/ciklum/vacancies/368093/",
@@ -44,11 +55,11 @@
     ]
   },
   {
-    "title": "Junior iOS Developer",
-    "company": "Вікісофт",
-    "url": "https://jobs.dou.ua/companies/vikisoft/vacancies/311547/",
-    "source": "dou",
-    "location": "Полтава",
+    "title": "iOS Developer",
+    "company": "Steadfast Craft",
+    "url": "https://djinni.co/jobs/842261-ios-developer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
     "score": 3,
     "reasons": [
       "role: ios"
@@ -93,17 +104,6 @@
     "url": "https://djinni.co/jobs/840068-senior-ios-ai-enabled-developer/",
     "source": "djinni",
     "location": "Ukraine (Kyiv)",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "Smartist",
-    "url": "https://djinni.co/jobs/515377-ios-developer/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
     "score": 3,
     "reasons": [
       "role: ios"
