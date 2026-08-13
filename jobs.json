@@ -22,6 +22,28 @@
     ]
   },
   {
+    "title": "Senior Mobile Engineer ID82572",
+    "company": "AgileEngine",
+    "url": "https://jobs.dou.ua/companies/agileengine/vacancies/369738/",
+    "source": "dou",
+    "location": "Remote (Ukraine only)",
+    "score": 3,
+    "reasons": [
+      "role: mobile"
+    ]
+  },
+  {
+    "title": "Senior iOS Developer (Ad SDK Infrastructure)",
+    "company": "Sigma Software",
+    "url": "https://jobs.dou.ua/companies/sigma-software/vacancies/369700/",
+    "source": "dou",
+    "location": "Київ, Харків, Львів, Дніпро, Одеса, Вінниця, Івано-Франківськ, Луцьк, Моршин, Полтава, Тернопіль, Черкаси, Чернівці, Бургас (Болгарія), Варшава (Польща), Краків (Польща), Лісабон (Португалія), Познань (Польща), Прага (Чехія), віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "iOS Developer (Senior)",
     "company": "TrackEnsure",
     "url": "https://jobs.dou.ua/companies/trackensure-inc/vacancies/369539/",
@@ -44,11 +66,11 @@
     ]
   },
   {
-    "title": "iOS Engineer (3982)",
-    "company": "Ciklum",
-    "url": "https://jobs.dou.ua/companies/ciklum/vacancies/368093/",
-    "source": "dou",
-    "location": "Київ, Львів, віддалено",
+    "title": "Trainee iOS Software Developer",
+    "company": "GlobalLogic",
+    "url": "https://djinni.co/jobs/842867-trainee-ios-software-developer/",
+    "source": "djinni",
+    "location": "Ukraine (Lviv)",
     "score": 3,
     "reasons": [
       "role: ios"
@@ -93,17 +115,6 @@
     "url": "https://djinni.co/jobs/841370-middle-ios-developer/",
     "source": "djinni",
     "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Senior IOS AI-Enabled Developer",
-    "company": "Tango Me/Танго Мі",
-    "url": "https://djinni.co/jobs/840068-senior-ios-ai-enabled-developer/",
-    "source": "djinni",
-    "location": "Ukraine (Kyiv)",
     "score": 3,
     "reasons": [
       "role: ios"
