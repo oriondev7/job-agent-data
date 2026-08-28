@@ -22,14 +22,25 @@
     ]
   },
   {
-    "title": "Senior Mobile Engineer ID82572",
-    "company": "AgileEngine",
-    "url": "https://jobs.dou.ua/companies/agileengine/vacancies/369738/",
+    "title": "Senior iOS developer",
+    "company": "Levi9",
+    "url": "https://jobs.dou.ua/companies/levi9/vacancies/371322/",
     "source": "dou",
-    "location": "Remote (Ukraine only)",
+    "location": "Київ, Львів",
     "score": 3,
     "reasons": [
-      "role: mobile"
+      "role: ios"
+    ]
+  },
+  {
+    "title": "iOS Developer",
+    "company": "Центр інновацій та розвитку оборонних технологій МОУ",
+    "url": "https://jobs.dou.ua/companies/cidtd/vacancies/371276/",
+    "source": "dou",
+    "location": "Київ",
+    "score": 3,
+    "reasons": [
+      "role: ios"
     ]
   },
   {
