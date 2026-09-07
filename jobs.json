@@ -66,6 +66,17 @@
     ]
   },
   {
+    "title": "Mobile Developer",
+    "company": "EXITEK",
+    "url": "https://djinni.co/jobs/846833-mobile-developer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: mobile"
+    ]
+  },
+  {
     "title": "iOS Swift Engineer",
     "company": "Cropwise Operations",
     "url": "https://djinni.co/jobs/845660-ios-swift-engineer/",
@@ -105,17 +116,6 @@
     "url": "https://djinni.co/jobs/841388-middle-ios-engineer/",
     "source": "djinni",
     "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "iOS Reverse Engineer - 1 Task",
-    "company": "Axissoft LLC",
-    "url": "https://djinni.co/jobs/843033-ios-reverse-engineer-1-task/",
-    "source": "djinni",
-    "location": "Worldwide",
     "score": 3,
     "reasons": [
       "role: ios"
