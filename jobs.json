@@ -55,17 +55,6 @@
     ]
   },
   {
-    "title": "iOS Developer",
-    "company": "Центр інновацій та розвитку оборонних технологій МОУ",
-    "url": "https://jobs.dou.ua/companies/cidtd/vacancies/371276/",
-    "source": "dou",
-    "location": "Київ",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
     "title": "Mobile Developer",
     "company": "EXITEK",
     "url": "https://djinni.co/jobs/846833-mobile-developer/",
@@ -108,17 +97,6 @@
     "score": 3,
     "reasons": [
       "role: mobile"
-    ]
-  },
-  {
-    "title": "Middle iOS Engineer",
-    "company": "N-iX",
-    "url": "https://djinni.co/jobs/841388-middle-ios-engineer/",
-    "source": "djinni",
-    "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
     ]
   }
 ]
