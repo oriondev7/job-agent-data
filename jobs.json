@@ -11,22 +11,11 @@
     ]
   },
   {
-    "title": "iOS Software Engineer",
-    "company": "CMK",
-    "url": "https://jobs.dou.ua/companies/cmk-software-mac-kiev/vacancies/371836/",
+    "title": "Senior iOS Product Engineer — Documents Team",
+    "company": "Readdle",
+    "url": "https://jobs.dou.ua/companies/readdle-inc/vacancies/371422/",
     "source": "dou",
-    "location": "віддалено",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Senior Native iOS Developer IRC304120",
-    "company": "GlobalLogic",
-    "url": "https://djinni.co/jobs/847922-senior-native-ios-developer-irc304120/",
-    "source": "djinni",
-    "location": "Ukraine",
+    "location": "Варшава (Польща), віддалено",
     "score": 3,
     "reasons": [
       "role: ios"
@@ -42,6 +31,17 @@
     "reasons": [
       "role: ios",
       "role: swift"
+    ]
+  },
+  {
+    "title": "Senior Native iOS Developer IRC304120",
+    "company": "GlobalLogic",
+    "url": "https://djinni.co/jobs/847922-senior-native-ios-developer-irc304120/",
+    "source": "djinni",
+    "location": "Ukraine",
+    "score": 3,
+    "reasons": [
+      "role: ios"
     ]
   }
 ]
