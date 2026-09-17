@@ -34,17 +34,6 @@
     ]
   },
   {
-    "title": "Senior Native iOS Developer IRC304120",
-    "company": "GlobalLogic",
-    "url": "https://djinni.co/jobs/847922-senior-native-ios-developer-irc304120/",
-    "source": "djinni",
-    "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
     "title": "iOS Swift Engineer",
     "company": "Cropwise Operations",
     "url": "https://djinni.co/jobs/845660-ios-swift-engineer/",
@@ -53,6 +42,17 @@
     "score": 6,
     "reasons": [
       "role: ios",
+      "role: swift"
+    ]
+  },
+  {
+    "title": "Product Engineer (Swift/Kotlin)",
+    "company": "Creditbooster.ai",
+    "url": "https://djinni.co/jobs/839623-product-engineer-swift-kotlin/",
+    "source": "djinni",
+    "location": "Worldwide",
+    "score": 3,
+    "reasons": [
       "role: swift"
     ]
   }
