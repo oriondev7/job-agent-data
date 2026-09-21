@@ -22,14 +22,13 @@
     ]
   },
   {
-    "title": "iOS Developer (Swift / UIKit)",
-    "company": "Out of the Box Systems",
-    "url": "https://djinni.co/jobs/833590-ios-developer-swift-uikit/",
+    "title": "Product Engineer (Swift/Kotlin)",
+    "company": "Creditbooster.ai",
+    "url": "https://djinni.co/jobs/839623-product-engineer-swift-kotlin/",
     "source": "djinni",
     "location": "Worldwide",
-    "score": 6,
+    "score": 3,
     "reasons": [
-      "role: ios",
       "role: swift"
     ]
   },
@@ -46,14 +45,14 @@
     ]
   },
   {
-    "title": "Product Engineer (Swift/Kotlin)",
-    "company": "Creditbooster.ai",
-    "url": "https://djinni.co/jobs/839623-product-engineer-swift-kotlin/",
+    "title": "Senior Mobile developer",
+    "company": "Simplify",
+    "url": "https://djinni.co/jobs/845145-senior-mobile-developer/",
     "source": "djinni",
     "location": "Worldwide",
     "score": 3,
     "reasons": [
-      "role: swift"
+      "role: mobile"
     ]
   }
 ]
