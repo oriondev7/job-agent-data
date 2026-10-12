@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "iOS Developer (Radiotech)",
+    "company": "Gismart",
+    "url": "https://jobs.dou.ua/companies/gismart_com/vacancies/376261/",
+    "source": "dou",
+    "location": "Unknown",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "Senior Mobile Traffic Infrastructure Engineer — Keitaro, Attribution, Routing & Anti-Abuse",
     "company": "Traffband",
     "url": "https://jobs.dou.ua/companies/traffband/vacancies/376205/",
@@ -22,25 +33,15 @@
     ]
   },
   {
-    "title": "Middle iOS Engineer",
-    "company": "Sombra",
-    "url": "https://jobs.dou.ua/companies/sombra/vacancies/374858/",
-    "source": "dou",
-    "location": "Київ, Львів, Івано-Франківськ, віддалено",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Co-Founder / macOS iOS Developer",
-    "company": "Only Prose",
-    "url": "https://djinni.co/jobs/852656-co-founder-macos-ios-developer/",
+    "title": "IOS Developer (Swift)",
+    "company": "Jump Labs",
+    "url": "https://djinni.co/jobs/852685-ios-developer-swift/",
     "source": "djinni",
-    "location": "Worldwide",
-    "score": 3,
+    "location": "Ukraine",
+    "score": 6,
     "reasons": [
-      "role: ios"
+      "role: ios",
+      "role: swift"
     ]
   },
   {
@@ -78,9 +79,9 @@
     ]
   },
   {
-    "title": "iOS Engineer Senior (Driver Team)",
-    "company": "Uklon",
-    "url": "https://djinni.co/jobs/849376-ios-engineer-senior-driver-team/",
+    "title": "IOS Farmer",
+    "company": "Trident Media",
+    "url": "https://djinni.co/jobs/852782-ios-farmer/",
     "source": "djinni",
     "location": "Ukraine",
     "score": 3,
