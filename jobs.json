@@ -22,18 +22,6 @@
     ]
   },
   {
-    "title": "Junior Mobile Developer (iOS)",
-    "company": "ELEKS",
-    "url": "https://jobs.dou.ua/companies/eleks/vacancies/376377/",
-    "source": "dou",
-    "location": "Львів, Івано-Франківськ, Тернопіль, Краків (Польща), Ряшів (Польща), Спліт (Хорватія)",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: mobile"
-    ]
-  },
-  {
     "title": "iOS Developer (Radiotech)",
     "company": "Gismart",
     "url": "https://jobs.dou.ua/companies/gismart_com/vacancies/376261/",
@@ -53,6 +41,29 @@
     "score": 3,
     "reasons": [
       "role: mobile"
+    ]
+  },
+  {
+    "title": "Middle iOS Engineer",
+    "company": "Sombra",
+    "url": "https://jobs.dou.ua/companies/sombra/vacancies/374858/",
+    "source": "dou",
+    "location": "Київ, Львів, Івано-Франківськ, віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "SDET for iOS(Swift) - Tinder",
+    "company": "Zoolatech",
+    "url": "https://djinni.co/jobs/853134-sdet-for-ios-swift-tinder/",
+    "source": "djinni",
+    "location": "Poland",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
     ]
   },
   {
@@ -99,17 +110,6 @@
     "score": 3,
     "reasons": [
       "role: swift"
-    ]
-  },
-  {
-    "title": "IOS Farmer",
-    "company": "Trident Media",
-    "url": "https://djinni.co/jobs/852782-ios-farmer/",
-    "source": "djinni",
-    "location": "Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
     ]
   }
 ]
