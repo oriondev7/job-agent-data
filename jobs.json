@@ -11,6 +11,18 @@
     ]
   },
   {
+    "title": "Senior iOS Swift Engineer with KMP Experience",
+    "company": "Opinov8",
+    "url": "https://jobs.dou.ua/companies/opinov8/vacancies/376783/",
+    "source": "dou",
+    "location": "Київ, за кордоном",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
+    ]
+  },
+  {
     "title": "iOS Developer (Radiotech)",
     "company": "Gismart",
     "url": "https://jobs.dou.ua/companies/gismart_com/vacancies/376261/",
@@ -38,6 +50,30 @@
     "url": "https://jobs.dou.ua/companies/sombra/vacancies/374858/",
     "source": "dou",
     "location": "Київ, Львів, Івано-Франківськ, віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "iOS developer (SwiftUI)",
+    "company": "Elogic",
+    "url": "https://djinni.co/jobs/853526-ios-developer-swiftui/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 9,
+    "reasons": [
+      "role: ios",
+      "role: swift",
+      "role: swiftui"
+    ]
+  },
+  {
+    "title": "Senior iOS Engineer",
+    "company": "Oxigen",
+    "url": "https://djinni.co/jobs/853510-senior-ios-engineer/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
     "score": 3,
     "reasons": [
       "role: ios"
@@ -76,17 +112,6 @@
     "score": 3,
     "reasons": [
       "role: ios"
-    ]
-  },
-  {
-    "title": "Product Engineer (Swift/Kotlin)",
-    "company": "Creditbooster.ai",
-    "url": "https://djinni.co/jobs/839623-product-engineer-swift-kotlin/",
-    "source": "djinni",
-    "location": "Worldwide",
-    "score": 3,
-    "reasons": [
-      "role: swift"
     ]
   }
 ]
