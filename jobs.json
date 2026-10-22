@@ -11,17 +11,6 @@
     ]
   },
   {
-    "title": "Mobile App Developer (Kotlin)",
-    "company": "ОБДЖЕКТ КОНТРОЛ, ТОВ",
-    "url": "https://robota.ua/company0/vacancy11078715",
-    "source": "robotaua",
-    "location": "Київ",
-    "score": 3,
-    "reasons": [
-      "role: mobile"
-    ]
-  },
-  {
     "title": "Junior Mobile (Swift and Kotlin) Developer (AI-first)",
     "company": "Code&Care",
     "url": "https://jobs.dou.ua/companies/code-and-care/vacancies/377105/",
@@ -103,14 +92,14 @@
     ]
   },
   {
-    "title": "Product Engineer (Swift/Kotlin)",
-    "company": "Creditbooster.ai",
-    "url": "https://djinni.co/jobs/839623-product-engineer-swift-kotlin/",
+    "title": "Senior iOS Developer (iGaming)",
+    "company": "Xerion",
+    "url": "https://djinni.co/jobs/854551-senior-ios-developer-igaming/",
     "source": "djinni",
-    "location": "Worldwide",
+    "location": "Ukraine",
     "score": 3,
     "reasons": [
-      "role: swift"
+      "role: ios"
     ]
   }
 ]
