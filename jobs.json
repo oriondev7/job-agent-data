@@ -57,6 +57,17 @@
     ]
   },
   {
+    "title": "iOS Developer",
+    "company": "PulseRise Technologies",
+    "url": "https://djinni.co/jobs/855110-ios-developer/",
+    "source": "djinni",
+    "location": "Bulgaria",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "Senior IOS Developer",
     "company": "BillEase",
     "url": "https://djinni.co/jobs/853647-senior-ios-developer/",
@@ -100,17 +111,6 @@
     "reasons": [
       "role: swift",
       "role: mobile"
-    ]
-  },
-  {
-    "title": "Senior ASO Specialist (iOS, iGaming)",
-    "company": "Leadsdoit",
-    "url": "https://djinni.co/jobs/850041-senior-aso-specialist-ios-igaming/",
-    "source": "djinni",
-    "location": "Worldwide",
-    "score": 3,
-    "reasons": [
-      "role: ios"
     ]
   }
 ]
