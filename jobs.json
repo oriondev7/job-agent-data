@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "Mobile App Developer (Kotlin)",
+    "company": "ОБДЖЕКТ КОНТРОЛ, ТОВ",
+    "url": "https://robota.ua/company0/vacancy11078715",
+    "source": "robotaua",
+    "location": "Київ",
+    "score": 3,
+    "reasons": [
+      "role: mobile"
+    ]
+  },
+  {
     "title": "Senior iOS Developer (iGaming)",
     "company": "Xerion",
     "url": "https://jobs.dou.ua/companies/xerion/vacancies/377909/",
@@ -43,6 +54,17 @@
     "reasons": [
       "role: ios",
       "role: swift"
+    ]
+  },
+  {
+    "title": "Senior iOS Software Engineer",
+    "company": "Hanna Robulets Company",
+    "url": "https://djinni.co/jobs/855290-senior-ios-software-engineer/",
+    "source": "djinni",
+    "location": "Spain, Lithuania, Latvia, Portugal",
+    "score": 3,
+    "reasons": [
+      "role: ios"
     ]
   },
   {
@@ -88,18 +110,6 @@
     "reasons": [
       "role: ios",
       "role: swift"
-    ]
-  },
-  {
-    "title": "Senior Mobile Developer (Kotlin + Swift) eCommerce",
-    "company": "Transoftgroup",
-    "url": "https://djinni.co/jobs/852510-senior-mobile-developer-kotlin-swift-ecommerc/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 6,
-    "reasons": [
-      "role: swift",
-      "role: mobile"
     ]
   }
 ]
