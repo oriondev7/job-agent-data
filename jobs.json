@@ -45,18 +45,6 @@
     ]
   },
   {
-    "title": "Senior iOS Swift Engineer with KMP Experience",
-    "company": "Opinov8",
-    "url": "https://jobs.dou.ua/companies/opinov8/vacancies/376783/",
-    "source": "dou",
-    "location": "Київ, за кордоном",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: swift"
-    ]
-  },
-  {
     "title": "Senior iOS Software Engineer",
     "company": "Hanna Robulets Company",
     "url": "https://djinni.co/jobs/855290-senior-ios-software-engineer/",
@@ -90,6 +78,19 @@
     ]
   },
   {
+    "title": "iOS developer (SwiftUI)",
+    "company": "Elogic",
+    "url": "https://djinni.co/jobs/853526-ios-developer-swiftui/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 9,
+    "reasons": [
+      "role: ios",
+      "role: swift",
+      "role: swiftui"
+    ]
+  },
+  {
     "title": "Senior iOS Engineer",
     "company": "Oxigen",
     "url": "https://djinni.co/jobs/853510-senior-ios-engineer/",
@@ -98,18 +99,6 @@
     "score": 3,
     "reasons": [
       "role: ios"
-    ]
-  },
-  {
-    "title": "SDET for iOS(Swift) - Tinder",
-    "company": "Zoolatech",
-    "url": "https://djinni.co/jobs/853134-sdet-for-ios-swift-tinder/",
-    "source": "djinni",
-    "location": "Poland",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: swift"
     ]
   }
 ]
