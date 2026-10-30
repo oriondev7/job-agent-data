@@ -45,17 +45,6 @@
     ]
   },
   {
-    "title": "Senior iOS Software Engineer",
-    "company": "Hanna Robulets Company",
-    "url": "https://djinni.co/jobs/855290-senior-ios-software-engineer/",
-    "source": "djinni",
-    "location": "Spain, Lithuania, Latvia, Portugal",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
     "title": "iOS Developer",
     "company": "PulseRise Technologies",
     "url": "https://djinni.co/jobs/855110-ios-developer/",
@@ -88,6 +77,18 @@
       "role: ios",
       "role: swift",
       "role: swiftui"
+    ]
+  },
+  {
+    "title": "SDET for iOS(Swift) - Tinder",
+    "company": "Zoolatech",
+    "url": "https://djinni.co/jobs/853134-sdet-for-ios-swift-tinder/",
+    "source": "djinni",
+    "location": "Poland",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
     ]
   }
 ]
