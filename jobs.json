@@ -22,6 +22,18 @@
     ]
   },
   {
+    "title": "iOS Developer (Swift)",
+    "company": "Phoenixgame",
+    "url": "https://djinni.co/jobs/841429-ios-developer-swift/",
+    "source": "djinni",
+    "location": "EU",
+    "score": 6,
+    "reasons": [
+      "role: ios",
+      "role: swift"
+    ]
+  },
+  {
     "title": "Senior iOS Engineer",
     "company": "Oxigen",
     "url": "https://djinni.co/jobs/853510-senior-ios-engineer/",
@@ -65,18 +77,6 @@
       "role: ios",
       "role: swift",
       "role: swiftui"
-    ]
-  },
-  {
-    "title": "SDET for iOS(Swift) - Tinder",
-    "company": "Zoolatech",
-    "url": "https://djinni.co/jobs/853134-sdet-for-ios-swift-tinder/",
-    "source": "djinni",
-    "location": "Poland",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: swift"
     ]
   }
 ]
