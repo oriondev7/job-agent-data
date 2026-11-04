@@ -45,17 +45,6 @@
     ]
   },
   {
-    "title": "Senior iOS Engineer",
-    "company": "Oxigen",
-    "url": "https://djinni.co/jobs/853510-senior-ios-engineer/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
     "title": "iOS Developer",
     "company": "PulseRise Technologies",
     "url": "https://djinni.co/jobs/855110-ios-developer/",
@@ -75,6 +64,19 @@
     "score": 3,
     "reasons": [
       "role: ios"
+    ]
+  },
+  {
+    "title": "iOS developer (SwiftUI)",
+    "company": "Elogic",
+    "url": "https://djinni.co/jobs/853526-ios-developer-swiftui/",
+    "source": "djinni",
+    "location": "Countries of Europe or Ukraine",
+    "score": 9,
+    "reasons": [
+      "role: ios",
+      "role: swift",
+      "role: swiftui"
     ]
   }
 ]
