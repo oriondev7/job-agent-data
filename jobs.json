@@ -1,5 +1,27 @@
 [
   {
+    "title": "Програміст iOS (дистанційно)",
+    "company": "Школа Героїв, Благодійний фонд",
+    "url": "https://robota.ua/company0/vacancy11029256",
+    "source": "robotaua",
+    "location": "Київ",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "Mobile developer",
+    "company": "Personalities, HR Company",
+    "url": "https://robota.ua/company0/vacancy11370672",
+    "source": "robotaua",
+    "location": "Київ",
+    "score": 3,
+    "reasons": [
+      "role: mobile"
+    ]
+  },
+  {
     "title": "Middle + / Senior Mobile iOS Developer in Mobile System Team (#1204)",
     "company": "ZONE3000",
     "url": "https://jobs.dou.ua/companies/zone3000/vacancies/365331/",
@@ -12,7 +34,7 @@
     ]
   },
   {
-    "title": "Solution Architect — Mobile (Contract)",
+    "title": "Solution Architect — Mobile (Contract, Part-time)",
     "company": "IT Service Ukraine",
     "url": "https://jobs.dou.ua/companies/speroteck/vacancies/378864/",
     "source": "dou",
@@ -23,14 +45,15 @@
     ]
   },
   {
-    "title": "Middle iOS Engineer",
-    "company": "N-iX",
-    "url": "https://djinni.co/jobs/856529-middle-ios-engineer/",
+    "title": "iOS Swift Engineer",
+    "company": "Cropwise Operations",
+    "url": "https://djinni.co/jobs/845660-ios-swift-engineer/",
     "source": "djinni",
-    "location": "Ukraine",
-    "score": 3,
+    "location": "Countries of Europe or Ukraine",
+    "score": 6,
     "reasons": [
-      "role: ios"
+      "role: ios",
+      "role: swift"
     ]
   },
   {
