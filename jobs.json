@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "Senior ASO Specialist (iOS, iGaming)",
+    "company": "Leadsdoit",
+    "url": "https://jobs.dou.ua/companies/leadsdoit/vacancies/379630/",
+    "source": "dou",
+    "location": "віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "Middle + / Senior Mobile iOS Developer in Mobile System Team (#1204)",
     "company": "ZONE3000",
     "url": "https://jobs.dou.ua/companies/zone3000/vacancies/365331/",
@@ -77,19 +88,6 @@
     "score": 3,
     "reasons": [
       "role: ios"
-    ]
-  },
-  {
-    "title": "iOS developer (SwiftUI)",
-    "company": "Elogic",
-    "url": "https://djinni.co/jobs/853526-ios-developer-swiftui/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 9,
-    "reasons": [
-      "role: ios",
-      "role: swift",
-      "role: swiftui"
     ]
   }
 ]
