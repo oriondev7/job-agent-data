@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "iOS Developer",
+    "company": "VRG Soft",
+    "url": "https://jobs.dou.ua/companies/vrg-soft/vacancies/322725/",
+    "source": "dou",
+    "location": "Дніпро",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
     "title": "Senior iOS Engineer — Documents Team",
     "company": "Readdle",
     "url": "https://jobs.dou.ua/companies/readdle-inc/vacancies/380408/",
@@ -27,6 +38,17 @@
     "url": "https://jobs.dou.ua/companies/gismart_com/vacancies/376261/",
     "source": "dou",
     "location": "віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "iOS Developer",
+    "company": "VRG Soft",
+    "url": "https://djinni.co/jobs/765787-ios-developer/",
+    "source": "djinni",
+    "location": "Ukraine (Dnipro)",
     "score": 3,
     "reasons": [
       "role: ios"
@@ -62,17 +84,6 @@
     "url": "https://djinni.co/jobs/855110-ios-developer/",
     "source": "djinni",
     "location": "Bulgaria",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "Senior ASO Specialist (iOS, iGaming)",
-    "company": "Leadsdoit",
-    "url": "https://djinni.co/jobs/850041-senior-aso-specialist-ios-igaming/",
-    "source": "djinni",
-    "location": "Worldwide",
     "score": 3,
     "reasons": [
       "role: ios"
