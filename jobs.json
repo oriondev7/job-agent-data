@@ -42,51 +42,5 @@
     "reasons": [
       "role: ios"
     ]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "VRG Soft",
-    "url": "https://djinni.co/jobs/765787-ios-developer/",
-    "source": "djinni",
-    "location": "Ukraine (Dnipro)",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
-  },
-  {
-    "title": "iOS Developer (Swift)",
-    "company": "Phoenixgame",
-    "url": "https://djinni.co/jobs/841429-ios-developer-swift/",
-    "source": "djinni",
-    "location": "EU",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: swift"
-    ]
-  },
-  {
-    "title": "iOS Swift Engineer",
-    "company": "Cropwise Operations",
-    "url": "https://djinni.co/jobs/845660-ios-swift-engineer/",
-    "source": "djinni",
-    "location": "Countries of Europe or Ukraine",
-    "score": 6,
-    "reasons": [
-      "role: ios",
-      "role: swift"
-    ]
-  },
-  {
-    "title": "iOS Developer",
-    "company": "PulseRise Technologies",
-    "url": "https://djinni.co/jobs/855110-ios-developer/",
-    "source": "djinni",
-    "location": "Bulgaria",
-    "score": 3,
-    "reasons": [
-      "role: ios"
-    ]
   }
 ]
