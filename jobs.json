@@ -22,22 +22,33 @@
     ]
   },
   {
-    "title": "Senior iOS Developer",
-    "company": "ELEKS",
-    "url": "https://jobs.dou.ua/companies/eleks/vacancies/381181/",
+    "title": "Senior iOS Engineer (5240)",
+    "company": "Ciklum",
+    "url": "https://jobs.dou.ua/companies/ciklum/vacancies/381339/",
     "source": "dou",
-    "location": "Київ, Львів, Івано-Франківськ, Тернопіль, Краків (Польща), Ряшів (Польща)",
+    "location": "Київ, Львів, віддалено",
     "score": 3,
     "reasons": [
       "role: ios"
     ]
   },
   {
-    "title": "iOS Developer",
-    "company": "VRG Soft",
-    "url": "https://jobs.dou.ua/companies/vrg-soft/vacancies/322725/",
+    "title": "Senior iOS Engineer (5239)",
+    "company": "Ciklum",
+    "url": "https://jobs.dou.ua/companies/ciklum/vacancies/381338/",
     "source": "dou",
-    "location": "Дніпро",
+    "location": "Київ, Львів, віддалено",
+    "score": 3,
+    "reasons": [
+      "role: ios"
+    ]
+  },
+  {
+    "title": "Senior iOS Developer",
+    "company": "ELEKS",
+    "url": "https://jobs.dou.ua/companies/eleks/vacancies/381181/",
+    "source": "dou",
+    "location": "Київ, Львів, Івано-Франківськ, Тернопіль, Краків (Польща), Ряшів (Польща)",
     "score": 3,
     "reasons": [
       "role: ios"
